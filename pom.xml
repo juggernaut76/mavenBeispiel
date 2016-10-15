@@ -33,5 +33,11 @@
           <artifactId>checkstyle</artifactId>
           <version>5.0</version>
       </dependency>
+      <!-- https://mvnrepository.com/artifact/pmd/pmd -->
+      <dependency>
+          <groupId>pmd</groupId>
+          <artifactId>pmd</artifactId>
+          <version>4.2.4</version>
+      </dependency>
   </dependencies>
 </project>
