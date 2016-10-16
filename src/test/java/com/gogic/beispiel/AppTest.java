@@ -35,4 +35,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * Failed Test
+     */
+    public void failedTest() {
+        assertTrue(false);
+    }
 }
